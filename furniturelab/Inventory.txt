@@ -1,0 +1,20 @@
+Sofa
+1234
+10
+18.99
+Soft Cushons
+Table
+5678
+15
+25.50
+Very sturdy and good quality
+Dresser
+9012
+12
+39.99
+Made of real wood
+Chair
+3456
+10
+15.99
+Made in Italy
